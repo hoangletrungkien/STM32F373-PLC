@@ -12,25 +12,25 @@
 ### PCB Top Layer
 
 <p align="center">
-  <img src="./Renders/top_layer.png" width="90%">
+  <img src="./Renders/LAYOUT_TOP.png" width="90%">
 </p>
 
 ### PCB Bottom Layer
 
 <p align="center">
-  <img src="./Renders/bottom_layer.png" width="90%">
+  <img src="./Renders/LAYOUT_BOTTOM.png" width="90%">
 </p>
 
 ### 3D Top View
 
 <p align="center">
-  <img src="./Renders/3d_top.png" width="85%">
+  <img src="./Renders/3D_TOP.png" width="85%">
 </p>
 
 ### 3D Bottom View
 
 <p align="center">
-  <img src="./Renders/3d_bottom.png" width="85%">
+  <img src="./Renders/3D_BOTTOM.png" width="85%">
 </p>
 
 ---
